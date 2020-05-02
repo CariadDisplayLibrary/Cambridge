@@ -1,7 +1,7 @@
 #ifndef _CAMBRIDGE_H
 #define _CAMBRIDGE_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Cambridge10[];
